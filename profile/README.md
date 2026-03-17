@@ -1,9 +1,38 @@
+<div align="center" style="position: relative; top: -150px; max-width: 900px; margin: auto;">
 
-<div align="center">
-  <h3 style="position: relative; top: -200px; color: white;">WELCOME TO</h3>
-  <h1 style="position: relative; top: -200px; color: white;">Anoneurx</h1>
-  <p style="position: relative; top: -200px; color: white; max-width: 800px;">
+  <!-- Banner Image -->
+  <img src="https://raw.githubusercontent.com/anoneurx/.github/main/images/baner.jpeg" 
+       alt="Anoneurx Banner" 
+       style="width: 100%; max-width: 800px; border-radius: 20px; box-shadow: 0 0 40px rgba(0,255,255,0.3);"/>
+
+  <!-- Description Text -->
+  <p style="
+      margin-top: 20px;
+      color: white;
+      max-width: 800px;
+      line-height: 1.6;
+      font-size: 18px;
+  ">
     We empower the future with intelligent software, AI-driven solutions, and user-first digital products
     designed to transform industries, elevate experiences, and build connected communities.
   </p>
+  <!-- WhatsApp Channel Button -->
+  <a href="https://whatsapp.com/channel/0029VbAmgwp3mFYF4DFVym0z" target="_blank"
+     style="
+        display: inline-block;
+        padding: 12px 28px;
+        margin-top: 20px;
+        background: linear-gradient(135deg, #25D366, #1ebe5d);
+        color: white;
+        font-weight: bold;
+        text-decoration: none;
+        border-radius: 30px;
+        box-shadow: 0 0 15px rgba(37,211,102,0.6);
+        transition: 0.3s;
+     "
+     onmouseover="this.style.transform='scale(1.08)'"
+     onmouseout="this.style.transform='scale(1)'"
+  >
+    Join WhatsApp Channel
+  </a>
 </div>

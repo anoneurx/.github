@@ -1,3 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/13BdFsgf/Screenshot-From-2026-02-17-13-44-08.png" width="100%" alt="Banner" />
+ <img src="https://raw.githubusercontent.com/anoneurx/.github/main/images/banner.jpeg" 
+       alt="Anoneurx Banner" 
+       style="width: 100%; max-width: 800px; border-radius: 20px; box"/>
 </div>

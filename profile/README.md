@@ -1,6 +1,6 @@
 <div align="center" style="position: relative; top: -150px; max-width: 900px; margin: auto;">
   <!-- Banner Image -->
-  <img src="https://raw.githubusercontent.com/anoneurx/.github/main/images/banner.jpeg" 
+  <img src="https://raw.githubusercontent.com/anoneurx/.github/main/images/baner.jpeg" 
        alt="Anoneurx Banner" 
        style="width: 100%; max-width: 800px; border-radius: 20px; box"/>
 
